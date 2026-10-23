@@ -1,5 +1,3 @@
-# Elevador-Inteligente-
-
 # 🛗 Elevador Inteligente — Validadores, Máquina de Estados e Scanner
 
 **Integrantes**
