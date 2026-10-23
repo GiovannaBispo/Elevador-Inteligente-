@@ -13,7 +13,7 @@
 **Atividade:** Aula CP 08 (Prática 3) — Autômatos Finitos na Prática
 **Tema:** Elevador inteligente
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/Elevador_Inteligente.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/drive/1QsTNHFBNHf-j9C51CfHpQkLOe9_fwKAt)
 
 ---
 
